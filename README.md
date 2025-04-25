@@ -1,3 +1,16 @@
-# omerkursad DSA210 Term Project.
+# omerkursad DSA 210 Project
 
-The project will be about  my own spendings and my tendencies to spend money according to the weather conditions.  I have extracted my own data from Akbank mobile app which is my main banking platform and I have also found a very detailed dataset for the weather conditions in istanbul for the previous 6 months. My study is limited to 6 months since the maximum days I can extract data from the akbank mobile app was 180 days. However, I believe that at the end of this study, I will be aware of my financial decisions at the end of the project and will be more responsible with my spendings. This is the whole motivation behind my project.
+## Overview
+This project aims to analyze my own spendings and see if the weather conditions or the temperature has any significant effects on my spendings.
+
+## Proje Hedefleri
+- Gain information about the data analysis techniques.
+- Retrieve experience on data analysis
+
+## Data Sources
+- Visual Crossing Weather.
+  Downloaded the weather data for Istanbul for the past 6 months.
+- My own Akbank transaction data
+
+
+
